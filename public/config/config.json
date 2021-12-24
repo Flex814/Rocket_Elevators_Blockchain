@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x18FfC5f1fF7b4d72e96714D6F9a28CA070aF01d2",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x18ffc5f1ff7b4d72e96714d6f9a28ca070af01d2",
+  "NETWORK": {
+    "NAME": "Rocket",
+    "SYMBOL": "Ether",
+    "ERC_NAME": "LINK",
+    "ERC_SYMBOL": "LINK",
+    "ID": 4
+  },
+  "NFT_NAME": "RocketElevator",
+  "SYMBOL": "REV",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rocketelevator-ia6t6zaorh",
+  "SHOW_BACKGROUND": true
+}
